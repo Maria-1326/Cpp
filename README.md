@@ -1,2 +1,2 @@
-# C-
-Game Coding in C++
+# C++
+Game (Coding in C++)
